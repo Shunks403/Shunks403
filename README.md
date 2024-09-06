@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nazar Polyanskiy
 ========================================================================================================================================
+![snake gif](https://github.com/Shunks403/Shunks403/blob/output/github-contribution-grid-snake-dark.svg)
 
 I am a student of Kiev University NTU (speciality - Software Engineer). I love learning new technologies, I specialise in .Net, I spend more time writing full rest api, but I also pull up my knowledge and on frontend development. Always open to new challenges.
 
