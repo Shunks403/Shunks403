@@ -13,6 +13,7 @@ I am a student of Kiev University NTU (speciality - Software Engineer). I love l
 </p>
 
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Shunks403" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
@@ -22,3 +23,5 @@ I am a student of Kiev University NTU (speciality - Software Engineer). I love l
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Shunks403"><img src="https://github-readme-stats.vercel.app/api?username=Shunks403&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shunks403's GitHub stats" /></a>
+
+[![codewars](https://www.codewars.com/users/Shunks09/badges/large)](https://www.codewars.com/users/Shunks09)
